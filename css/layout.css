@@ -286,7 +286,7 @@ ul#nav li.current a {
 }
 
 #resume h1 {
-  font: 18px/24px "opensans-bold", sans-serif;
+  font: 18px/24px "Staatliches", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -295,7 +295,7 @@ ul#nav li.current a {
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px "opensans-bold", sans-serif;
+  font: 25px/30px "Staatliches", sans-serif;
 }
 
 #resume .header-col {
